@@ -4,15 +4,15 @@ This repository contains three machine learning projects
 Each project demonstrates different ML techniques: supervised learning, unsupervised learning, and neural networks applied to real-world datasets.  
 
 ---
-## 📂 Project Info  
+## Project Info  
 
-🗓 Duration: Nov 2024 – Jan 2025  
-💻 Type: Machine Learning Projects  
-🛠 Language/Tools: Python, Scikit-learn, TensorFlow/Keras, PyCaret, Pandas, NumPy, Matplotlib, Seaborn  
-📊 Techniques: Supervised Learning, Unsupervised Learning, Neural Networks 
+Duration: Nov 2024 – Jan 2025  
+Type: Machine Learning Projects  
+Language/Tools: Python, Scikit-learn, TensorFlow/Keras, PyCaret, Pandas, NumPy, Matplotlib, Seaborn  
+Techniques: Supervised Learning, Unsupervised Learning, Neural Networks 
 
 ---
-## 📌 1. Credit Card Approval Prediction (Supervised Learning)  
+## 1. Credit Card Approval Prediction (Supervised Learning)  
 
 **Dataset:** Credit Card Approval Prediction(Kaggle) consists of:
 - **Table 1:** Client information (marital status, gender, family size, annual income, etc.)  
@@ -29,7 +29,7 @@ Each project demonstrates different ML techniques: supervised learning, unsuperv
 
 ---
 
-## 📌 2. Credit Card Customer Clustering (Unsupervised Learning)  
+## 2. Credit Card Customer Clustering (Unsupervised Learning)  
 **Dataset:** Credit card usage behavior of ~9,000 customers over 6 months.  
 
 **Objective:** Group customers with similar spending/usage behavior.  
@@ -46,7 +46,7 @@ Each project demonstrates different ML techniques: supervised learning, unsuperv
 
 ---
 
-## 📌 3. Breast Cancer Detection using Microwave Sensor Data (Deep Learning)  
+## 3. Breast Cancer Detection using Microwave Sensor Data (Deep Learning)  
 **Dataset:** Microwave sensor measurements (S11–S44 features: magnitude + phase), labeled as *20mm tumor* or *No tumor*.  
 
 **Objective:** Build a neural network model to classify tumor presence.  
