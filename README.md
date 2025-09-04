@@ -1,7 +1,15 @@
 # Machine Learning Projects  
 
 This repository contains three machine learning projects  
-Each project demonstrates different ML techniques: supervised learning, unsupervised learning, and deep learning applied to real-world datasets.  
+Each project demonstrates different ML techniques: supervised learning, unsupervised learning, and neural networks applied to real-world datasets.  
+
+---
+## 📂 Project Info  
+
+🗓 Duration: Nov 2024 – Jan 2025  
+💻 Type: Machine Learning Projects  
+🛠 Language/Tools: Python, Scikit-learn, TensorFlow/Keras, PyCaret, Pandas, NumPy, Matplotlib, Seaborn  
+📊 Techniques: Supervised Learning, Unsupervised Learning, Neural Networks 
 
 ---
 ## 📌 1. Credit Card Approval Prediction (Supervised Learning)  
